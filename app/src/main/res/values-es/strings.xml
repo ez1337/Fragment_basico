@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Fragments-dummie</string>
+    <string name="hello_blank_fragment">Fragmento vacío</string>
+    <string name="inputText_label">Introduce el texto</string>
+    <string name="button_label">Actualizar</string>
+    <string name="hint_text">Escribe tu texto aquí</string>
+</resources>
